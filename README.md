@@ -2,7 +2,7 @@
 
  This repo is for the QA takehome assignment given by Syndio.
 
- Files with extension .odt are the bug reports, Test Run.ods is the test run for the application.
+ Files with extension .odt are my bug reports, Test Run.ods is my test run for the application.
  - Use Microsoft Word or similar programs to open .odt files
  - Use Microsoft Excel or similar programs to open .ods files
 
